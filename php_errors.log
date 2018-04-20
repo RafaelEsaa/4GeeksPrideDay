@@ -1,0 +1,181 @@
+[14-Dec-2017 20:12:28 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[14-Dec-2017 20:12:28 UTC] PHP Stack trace:
+[14-Dec-2017 20:12:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[14-Dec-2017 20:12:28 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[14-Dec-2017 20:12:28 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[14-Dec-2017 20:12:28 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[14-Dec-2017 20:12:28 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[14-Dec-2017 20:12:28 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[14-Dec-2017 20:12:28 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[14-Dec-2017 20:13:21 UTC] PHP Strict standards:  Non-static method CountDownTimer::get_styles() should not be called statically, assuming $this from incompatible context in /home/ubuntu/workspace/wp-content/plugins/jquery-t-countdown-widget/countdown-timer.php on line 223
+[14-Dec-2017 20:13:21 UTC] PHP Stack trace:
+[14-Dec-2017 20:13:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[14-Dec-2017 20:13:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[14-Dec-2017 20:13:21 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[14-Dec-2017 20:13:21 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[14-Dec-2017 20:13:21 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[14-Dec-2017 20:13:21 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[14-Dec-2017 20:13:21 UTC] PHP   7. WP_TMinusCD->options_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[14-Dec-2017 20:15:56 UTC] PHP Strict standards:  Non-static method CountDownTimer::get_styles() should not be called statically, assuming $this from incompatible context in /home/ubuntu/workspace/wp-content/plugins/jquery-t-countdown-widget/countdown-timer.php on line 223
+[14-Dec-2017 20:15:56 UTC] PHP Stack trace:
+[14-Dec-2017 20:15:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[14-Dec-2017 20:15:56 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[14-Dec-2017 20:15:56 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[14-Dec-2017 20:15:56 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[14-Dec-2017 20:15:56 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[14-Dec-2017 20:15:56 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[14-Dec-2017 20:15:56 UTC] PHP   7. WP_TMinusCD->options_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:32:30 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:32:30 UTC] PHP Stack trace:
+[15-Dec-2017 21:32:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:32:30 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:32:30 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:32:30 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:32:30 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:32:30 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:32:30 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 21:38:51 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:38:51 UTC] PHP Stack trace:
+[15-Dec-2017 21:38:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:38:51 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:38:51 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:38:51 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:38:51 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:38:51 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:38:51 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 21:40:05 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:40:05 UTC] PHP Stack trace:
+[15-Dec-2017 21:40:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:40:05 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:40:05 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:40:05 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:40:05 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:40:05 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:40:05 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 21:40:48 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:40:48 UTC] PHP Stack trace:
+[15-Dec-2017 21:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:40:48 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:40:48 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:40:48 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:40:48 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:40:48 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:40:48 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 21:47:18 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:47:18 UTC] PHP Stack trace:
+[15-Dec-2017 21:47:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:47:18 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:47:18 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:47:18 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:47:18 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:47:18 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:47:18 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 21:47:23 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:47:23 UTC] PHP Stack trace:
+[15-Dec-2017 21:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:47:23 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:47:23 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:47:23 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:47:23 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:47:23 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:47:23 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 21:59:16 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 21:59:16 UTC] PHP Stack trace:
+[15-Dec-2017 21:59:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 21:59:16 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 21:59:16 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 21:59:16 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 21:59:16 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:59:16 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 21:59:16 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 22:29:11 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 22:29:11 UTC] PHP Stack trace:
+[15-Dec-2017 22:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 22:29:11 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 22:29:11 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 22:29:11 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 22:29:11 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 22:29:11 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 22:29:11 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 22:34:07 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 22:34:07 UTC] PHP Stack trace:
+[15-Dec-2017 22:34:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 22:34:07 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 22:34:07 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 22:34:07 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 22:34:07 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 22:34:07 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 22:34:07 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[15-Dec-2017 22:44:30 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[15-Dec-2017 22:44:30 UTC] PHP Stack trace:
+[15-Dec-2017 22:44:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[15-Dec-2017 22:44:30 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[15-Dec-2017 22:44:30 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[15-Dec-2017 22:44:30 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[15-Dec-2017 22:44:30 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 22:44:30 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[15-Dec-2017 22:44:30 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[18-Dec-2017 14:00:43 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[18-Dec-2017 14:00:43 UTC] PHP Stack trace:
+[18-Dec-2017 14:00:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[18-Dec-2017 14:00:43 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[18-Dec-2017 14:00:43 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[18-Dec-2017 14:00:43 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[18-Dec-2017 14:00:43 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[18-Dec-2017 14:00:43 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[18-Dec-2017 14:00:43 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[18-Dec-2017 14:29:21 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[18-Dec-2017 14:29:21 UTC] PHP Stack trace:
+[18-Dec-2017 14:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[18-Dec-2017 14:29:21 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[18-Dec-2017 14:29:21 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[18-Dec-2017 14:29:21 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[18-Dec-2017 14:29:21 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[18-Dec-2017 14:29:21 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[18-Dec-2017 14:29:21 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[19-Dec-2017 20:20:14 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ubuntu/workspace/wp-includes/class-wp-list-util.php on line 150
+[19-Dec-2017 20:20:14 UTC] PHP Stack trace:
+[19-Dec-2017 20:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[19-Dec-2017 20:20:14 UTC] PHP   2. WP_Plugin_Install_List_Table->prepare_items() /home/ubuntu/workspace/wp-admin/plugin-install.php:39
+[19-Dec-2017 20:20:14 UTC] PHP   3. wp_list_pluck() /home/ubuntu/workspace/wp-admin/includes/class-wp-plugin-install-list-table.php:253
+[19-Dec-2017 20:20:14 UTC] PHP   4. WP_List_Util->pluck() /home/ubuntu/workspace/wp-includes/functions.php:3647
+[19-Dec-2017 20:20:14 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ubuntu/workspace/wp-includes/class-wp-list-util.php on line 150
+[19-Dec-2017 20:20:14 UTC] PHP Stack trace:
+[19-Dec-2017 20:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[19-Dec-2017 20:20:14 UTC] PHP   2. WP_Plugin_Install_List_Table->prepare_items() /home/ubuntu/workspace/wp-admin/plugin-install.php:39
+[19-Dec-2017 20:20:14 UTC] PHP   3. wp_filter_object_list() /home/ubuntu/workspace/wp-admin/includes/class-wp-plugin-install-list-table.php:254
+[19-Dec-2017 20:20:14 UTC] PHP   4. WP_List_Util->pluck() /home/ubuntu/workspace/wp-includes/functions.php:3597
+[19-Dec-2017 20:20:14 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 239
+[19-Dec-2017 20:20:14 UTC] PHP Stack trace:
+[19-Dec-2017 20:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[19-Dec-2017 20:20:14 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:158
+[19-Dec-2017 20:20:14 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[19-Dec-2017 20:20:14 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[19-Dec-2017 20:20:14 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[19-Dec-2017 20:20:14 UTC] PHP   6. install_dashboard() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[19-Dec-2017 20:20:14 UTC] PHP   7. printf() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:239
+[21-Dec-2017 22:14:05 UTC] PHP Notice:  map_meta_cap se llamó <strong>incorrectamente</strong>. El tipo de publicación contactus no está registrado así que puede que no sea fiable para comprobar la capacidad de "edit_post" para un contenido de ese tipo. Por favor, visita <a href="https://codex.wordpress.org/Debugging_in_WordPress">Depuración en WordPress</a> para más información. (Este mensaje se añadió en la versión 4.4.0.) in /home/ubuntu/workspace/wp-includes/functions.php on line 4146
+[21-Dec-2017 22:14:05 UTC] PHP Stack trace:
+[21-Dec-2017 22:14:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[21-Dec-2017 22:14:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/post.php:12
+[21-Dec-2017 22:14:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[21-Dec-2017 22:14:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[21-Dec-2017 22:14:05 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:79
+[21-Dec-2017 22:14:05 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:450
+[21-Dec-2017 22:14:05 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Dec-2017 22:14:05 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Dec-2017 22:14:05 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Dec-2017 22:14:05 UTC] PHP  10. Vc_Manager->init() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Dec-2017 22:14:05 UTC] PHP  11. Vc_Manager->setMode() /home/ubuntu/workspace/wp-content/plugins/js_composer/js_composer.php:251
+[21-Dec-2017 22:14:05 UTC] PHP  12. Vc_Current_User_Access->wpAny() /home/ubuntu/workspace/wp-content/plugins/js_composer/js_composer.php:407
+[21-Dec-2017 22:14:05 UTC] PHP  13. Vc_Current_User_Access->wpMulti() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/class-vc-current-user-access.php:65
+[21-Dec-2017 22:14:05 UTC] PHP  14. call_user_func_array:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/class-vc-current-user-access.php:45}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/class-vc-current-user-access.php:45
+[21-Dec-2017 22:14:05 UTC] PHP  15. Vc_Access->check() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/class-vc-current-user-access.php:45
+[21-Dec-2017 22:14:05 UTC] PHP  16. call_user_func_array:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/abstract-class-vc-access.php:105}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/abstract-class-vc-access.php:105
+[21-Dec-2017 22:14:05 UTC] PHP  17. current_user_can() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/core/access/abstract-class-vc-access.php:105
+[21-Dec-2017 22:14:05 UTC] PHP  18. call_user_func_array:{/home/ubuntu/workspace/wp-includes/capabilities.php:606}() /home/ubuntu/workspace/wp-includes/capabilities.php:606
+[21-Dec-2017 22:14:05 UTC] PHP  19. WP_User->has_cap() /home/ubuntu/workspace/wp-includes/capabilities.php:606
+[21-Dec-2017 22:14:05 UTC] PHP  20. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-user.php:722}() /home/ubuntu/workspace/wp-includes/class-wp-user.php:722
+[21-Dec-2017 22:14:05 UTC] PHP  21. map_meta_cap() /home/ubuntu/workspace/wp-includes/class-wp-user.php:722
+[21-Dec-2017 22:14:05 UTC] PHP  22. _doing_it_wrong() /home/ubuntu/workspace/wp-includes/capabilities.php:144
+[21-Dec-2017 22:14:05 UTC] PHP  23. trigger_error() /home/ubuntu/workspace/wp-includes/functions.php:4146
